@@ -49,6 +49,7 @@ class Knight : Klasse
 {
     public void knight()
     {
+        //Vererbungen
         HP = 70;
         SP = 30;
         Name = "Ritter";
@@ -60,6 +61,7 @@ class Mage : Klasse
 {
     public void mage()
     {
+        //Vererbungen
         HP = 30;
         SP = 70;
         Name = "Magier";
@@ -71,6 +73,7 @@ class Archer : Klasse
 {
     public void archer()
     {
+        //Vererbungen
         HP = 50;
         SP = 50;
         Name = "Bogenschütze";
